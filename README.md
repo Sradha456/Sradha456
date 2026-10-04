@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sradhanjali Khatua 👋
 
-<!--
-**Sradha456/Sradha456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student with skills in Python, Django, web development, databases, and full-stack application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQL
+- SQLite
+- MySQL
+- Git & GitHub
+- REST APIs
+
+### 🚀 Projects
+
+- **Mini CRM Web App with AI Assist**
+  - User authentication
+  - Contact management
+  - Deal pipeline
+  - Drag-and-drop deal stages
+  - AI-assisted follow-up email generation
+
+### 🎯 Career Goal
+
+Looking for opportunities as a Python Full Stack Developer.
+
+---
+
+⭐ Thanks for visiting my profile!
